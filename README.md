@@ -24,8 +24,8 @@ Using stuff from a box of salvaged components, a damaged 0.96" I2C OLED screen a
   - 'System start up' sequence
   - 'Red Alert' sequence
   - 'System failure' sequence
-- Additional I/O triggers
+- Additional I/O triggers (Pending)
   - Touch/proximity sequence activation
   - Response to ambient temperature/light levels
-- Mesh with other ESP8266 to build an interactive system
+- Mesh with other ESP8266 to build an interactive system  (Pending)
 
