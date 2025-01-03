@@ -17,6 +17,7 @@ Using stuff from a box of salvaged components, a damaged 0.96" I2C OLED screen a
 - [Random Nerds](https://randomnerdtutorials.com/esp8266-0-96-inch-oled-display-with-arduino-ide/)
 - [FastLED](https://fastled.io/)
 - [NerdForge](https://youtu.be/oR80TuOCoic?si=QbNQUZnfUyZrZtNT)
+- [OLED label font](https://www.fontspace.com/droidobesh-depot-font-f55049)
 
 ### Development actions
 - OTA Updates (Pending)
