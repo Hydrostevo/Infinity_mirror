@@ -14,10 +14,13 @@ Using stuff from a box of salvaged components, a damaged 0.96" I2C OLED screen a
 - 3mm Acrylic sheet
 
 ## Code sources
-- [Random Nerds](https://randomnerdtutorials.com/esp8266-0-96-inch-oled-display-with-arduino-ide/)
-- [FastLED](https://fastled.io/)
+- [Random Nerds - OLED](https://randomnerdtutorials.com/esp8266-0-96-inch-oled-display-with-arduino-ide/)
+- [Random Nerds - OTA](https://randomnerdtutorials.com/esp8266-nodemcu-ota-elegantota-arduino/)
+- [FastLED](https://fastled.io/).
+- [FastLED - Multiple animations](https://github.com/marmilicious/FastLED_examples)
 - [NerdForge](https://youtu.be/oR80TuOCoic?si=QbNQUZnfUyZrZtNT)
-- [OLED label font](https://www.fontspace.com/droidobesh-depot-font-f55049)
+- [OLED label 'Droidobesh' font](https://www.fontspace.com/droidobesh-depot-font-f55049)
+- [Sinewave generator for OLED](https://mymixblogwork.blogspot.com/2024/11/sine-wave-on-oled-display-code.html)
 
 ### Development actions
 - OTA Updates (Pending)
