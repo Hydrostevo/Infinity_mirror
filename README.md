@@ -17,3 +17,15 @@ Using stuff from a box of salvaged components, a damaged 0.96" I2C OLED screen a
 - [Random Nerds](https://randomnerdtutorials.com/esp8266-0-96-inch-oled-display-with-arduino-ide/)
 - [FastLED](https://fastled.io/)
 - [NerdForge](https://youtu.be/oR80TuOCoic?si=QbNQUZnfUyZrZtNT)
+
+### Development actions
+- OTA Updates (Pending)
+- Interactive Webserver (Pending)
+  - 'System start up' sequence
+  - 'Red Alert' sequence
+  - 'System failure' sequence
+- Additional I/O triggers
+  - Touch/proximity sequence activation
+  - Response to ambient temperature/light levels
+- Mesh with other ESP8266 to build an interactive system
+
