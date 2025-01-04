@@ -28,15 +28,8 @@
 
 AsyncWebServer server(80);
 
-//const char* ssid = "BT-9ZACRK";
-//const char* password = "nk6bMTQ4NGVRtF";
-//const char* ssid = "AndroidAP";
-//const char* password = "nmst3670";
-//const char* host = "Mech";
-//const char* ssid = "KALI 6581";
-//const char* password = "uB46$616";
-const char* ssid = "Galaxy A13 4403";
-const char* password = "cgtb5105";
+const char* ssid = "SSID here";
+const char* password = "Password here";  // Will connect this to Credentials.h at some point
 
 
 // FastLED
