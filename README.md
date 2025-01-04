@@ -23,7 +23,7 @@ Using stuff from a box of salvaged components, a damaged 0.96" I2C OLED screen a
 - [Sinewave generator for OLED](https://mymixblogwork.blogspot.com/2024/11/sine-wave-on-oled-display-code.html)
 
 ### Development actions
-- OTA Updates (Pending)
+- OTA Updates - Done, issue with FastLED and ElegantOTA resolved
 - Interactive Webserver (Pending)
   - 'System start up' sequence
   - 'Red Alert' sequence
